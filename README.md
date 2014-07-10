@@ -8,8 +8,7 @@ This was one of my first android projects. This version was slightly reammed (be
 License 
 Zlib
 
-/*
- * Copyright (c) 2014 Aaron Disibio
+ Copyright (c) 2014 Aaron Disibio
 
 This software is provided 'as-is', without any express or implied warranty. In no event will the authors be held liable for any damages arising from the use of this software.
 
@@ -21,4 +20,3 @@ Permission is granted to anyone to use this software for any purpose, including 
 
     3. This notice may not be removed or altered from any source distribution.
 
- */
