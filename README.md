@@ -3,7 +3,7 @@ MazeGenerator
 
 This generates a "perfect" maze. The app just shows off its process in real time.
 
-This was one of my first android projects (sometime around 2011). This version was slightly reammed (better interface and bug fixes) about a year   or two later for a small school project. 
+This was one of my first android projects (sometime around 2011). This version was  re-amped (better interface and bug fixes and a few other things) about a year or two later for a small school project. 
 
 License 
 Zlib
